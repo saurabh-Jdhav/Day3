@@ -1,1 +1,2 @@
-This is my first assignment of git
+This my first assignment of git
+ok
