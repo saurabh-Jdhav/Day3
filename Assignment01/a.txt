@@ -1,2 +1,2 @@
 This my first assignment of git
-ok
+ok done
